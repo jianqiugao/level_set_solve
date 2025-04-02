@@ -25,6 +25,7 @@ uy = -(np.sin(np.pi*mesh_y)**2)*np.sin(2*np.pi*mesh_x)
 <center>
 
 ![水平集函数](./asset/streamplot.png)<br>
+
 </center>
 
 最后的求解结果
