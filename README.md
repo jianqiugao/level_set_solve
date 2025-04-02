@@ -32,3 +32,5 @@ uy = -(np.sin(np.pi*mesh_y)**2)*np.sin(2*np.pi*mesh_x)
 
 ![水平集函数](./asset/results.png)<br>
 
+- todo: 把fipy实现的内容自己手动实现一遍，同时和之前的二维求解项目合并
+
