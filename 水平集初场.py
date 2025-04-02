@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2025/4/1 16:35
 # @Author  : jianqiugao
-# @File    : 水平集.py
+# @File    : 水平集初场.py
 # @email: 985040320@qq.com
 import numpy as np
 import matplotlib.pyplot as plt
